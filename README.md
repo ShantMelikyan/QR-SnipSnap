@@ -1,0 +1,2 @@
+# QR-SnipSnap
+Privacy Policy
